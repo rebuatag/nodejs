@@ -18,7 +18,10 @@
   "homepage": "https://github.com/rebuatag/nodejs#readme",
   "dependencies": {
     "bootstrap": "^5.2.0",
-    "mongoose": "^6.5.3",
-    "underscore": "^1.13.4"
+    "lodash": "^4.17.21",
+    "underscore": "^1.4.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.5"
   }
 }
